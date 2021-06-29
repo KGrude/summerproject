@@ -1,23 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+        <p>SUMMERPROJECT </p>
+        <p>Hei folkens! Dette er nettiden vår som vi kan gøre de endringene vi vil på.</p>
+        <p>Jeg har nå fikset det viktigste oppsettet så alt skal være klart til å progge i vei.</p>
+        <p>Dette blir bra!!! Bare spørr om det er noe:)</p>
+        <p>Hilsen Grude</p>
     </div>
   );
 }
