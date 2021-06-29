@@ -8,6 +8,7 @@ function App() {
         <p>Jeg har nå fikset det viktigste oppsettet så alt skal være klart til å progge i vei.</p>
         <p>Dette blir bra!!! Bare spørr om det er noe:)</p>
         <p>Hilsen Grude</p>
+        <button>Hello</button>
     </div>
   );
 }
