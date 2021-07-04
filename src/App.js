@@ -10,6 +10,8 @@ function App() {
       <p>Dette blir bra!!! Bare spørr om det er noe:)</p>
       <p>Hilsen Grude</p>
       <button>Hello</button>
+      <p>Dette er en test</p>
+      <button>Hilsen</button>
     </div>
   );
 }
